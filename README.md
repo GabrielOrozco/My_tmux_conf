@@ -56,6 +56,7 @@ set -g bell-action none
 
 #  modes
 setw -g clock-mode-colour colour5
+
 setw -g mode-style 'fg=colour1 bg=colour18 bold'
 
 # panes
@@ -82,3 +83,13 @@ setw -g window-status-bell-style 'fg=colour255 bg=colour1 bold'
 # messages
 set -g message-style 'fg=colour232 bg=colour16 bold'
 ```
+#Making the terminal a little bit pretty and customizable
+
+You can follow this tutorial:
+
+[Tutorial for Better terminal](https://medium.com/@ivanaugustobd/your-terminal-can-be-much-much-more-productive-5256424658e8)
+
+However, instead of the Hack Nerd Font I used the Hasklug Nerd Font that I found [here](https://github.com/ryanoasis/nerd-fonts/releases/)
+
+The `.hyper.js` is for the configuration of hyper terminal with the appropiate font and color
+The `.zshrc` is for the configuration of the zsh terminal
