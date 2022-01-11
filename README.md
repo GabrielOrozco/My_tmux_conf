@@ -83,7 +83,7 @@ setw -g window-status-bell-style 'fg=colour255 bg=colour1 bold'
 # messages
 set -g message-style 'fg=colour232 bg=colour16 bold'
 ```
-#Making the terminal a little bit pretty and customizable
+# Making the terminal a little bit pretty and customizable
 
 You can follow this tutorial:
 
