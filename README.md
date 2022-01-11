@@ -1,4 +1,4 @@
-##(Un)necessary intro
+# (Un)necessary intro
 Okay, this is my tmux configuration file. For ussing it you can just copy `.tmux.conf` file in your user home directory. Don't get scared if you find nothing with that name, you can just create it.
 
 # Remaping Ctr-b to Ctr-a
