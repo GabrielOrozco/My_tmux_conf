@@ -93,3 +93,10 @@ However, instead of the Hack Nerd Font I used the Hasklug Nerd Font that I found
 
 The `.hyper.js` is for the configuration of hyper terminal with the appropiate font and color
 The `.zshrc` is for the configuration of the zsh terminal
+
+# Strange colors with tmux?
+If you find that after starting tmux with the new theme the colors are not the same, append into the `.zshrc` file 
+```
+#Some issues with the theme?
+export TERM=xterm-256color
+```
